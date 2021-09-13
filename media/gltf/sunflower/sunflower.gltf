@@ -297,11 +297,6 @@
             "mimeType" : "image/png",
             "name" : "cifr",
             "uri" : "cifr.png"
-        },
-        {
-            "mimeType" : "image/png",
-            "name" : "serdechkopaint",
-            "uri" : "serdechkopaint.png"
         }
     ],
     "accessors" : [
